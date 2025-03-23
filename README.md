@@ -1,3 +1,5 @@
 ## Product Store
 Web based product store app using MERN stack.
-Visit (https://mern-product-store-sdtv.onrender.com/)
+Upload image using image link
+
+Visit https://mern-product-store-sdtv.onrender.com/
